@@ -8,4 +8,13 @@ Welcome to the Task Management Client application. This guide will walk you thro
 
 2. Clone this repository to your local machine using the following command:
    ```sh
-   git clone https://github.com/your-username/task-management-client.git
+   git clone https://github.com/nikhilsaivadluri/TaskManagementAppClient.git
+3. Go to TaskManagementAppClient folder
+   ```sh
+  cd TaskManagementAppClient
+4. Install Node modules using below command
+  ```sh
+  npm install
+5. Run and Start Client 
+  ```sh
+  npm start
